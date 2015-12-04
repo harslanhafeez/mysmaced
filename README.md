@@ -1,0 +1,2 @@
+# mysmaced
+mysmaced smart schools
